@@ -1,7 +1,7 @@
-baseURL = 'https://travelswithDarAndBruce.the-jacksons.ca/'
+baseURL = 'https://travels.the-jacksons.ca/'
 languageCode = 'en-us'
 title = 'Travels with Dar and Bruce'
-theme = "ananke"
+theme = 'ananke'
 
 [param]
 featured_image = 'images/featured.jpg'
