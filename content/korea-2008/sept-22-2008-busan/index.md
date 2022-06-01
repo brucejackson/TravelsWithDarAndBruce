@@ -3,27 +3,17 @@ title: Sept 22, 2008 – Busan
 author: ebjadmin
 type: page
 date: 2008-09-23T07:08:00+00:00
-blogger_blog:
-  - darbruce.blogspot.com
-blogger_author:
-  - bruce jackson registered massage therapist
-blogger_permalink:
-  - /2008/09/daily-sept-22-2008.html
-blogger_internal:
-  - /feeds/4129116865024916207/posts/default/570363103689924026
+
 
 ---
-**Busan**
+## Busan
 
 We traveled today to Beomeosa temple, an active temple. It was a 3km walk up a winding and pretty steep roadway. Luckily a shaded walk. For part of the trip we were not sure if we were going the right way &#8211; signs are not also where you need them (or at least where we need them). The roadway had 2 lanes of traffic going the same direction but I am not really sure why there were lines on the road as the use of lanes seemed very arbitrary.
 
 On the way there, we stopped at one temple and recorded the sound of a service going on. Then proceeded back up the road to our destination. Beomeosa is a large temple with a Templestay program for those that which to enhance their practice and also has what seems to be a large training center. Here again we were able to record some additional sounds of the temple.
 
+![IMG_1251.JPG](images/IMG_1251.JPG)
 
-
-<div style="clear: both;text-align: center">
-  <a href="http://3.bp.blogspot.com/_bw64bfbbDEk/SNiXAfPPKTI/AAAAAAAAA0c/iMaY7IexgtM/s1600-h/IMG_1251.JPG" style="margin-left: 1em;margin-right: 1em"><img src="http://3.bp.blogspot.com/_bw64bfbbDEk/SNiXAfPPKTI/AAAAAAAAA0c/_fouSZXYExE/s320-R/IMG_1251.JPG" border="0" /></a>
-</div>
 
 As were were pretty hungry at this point and with no food in sight, we took a bus back down to the city. As the bus departed the temple and started downhill we discovered all the restaurants we on the downhill side of the road. We did not have exact change for the bus. In total it cost us 2000 Won but we only have a 5000 Won note. We put it in the bill collector. At the end of the bus ride the driver called me up to the front. He was taking 1000 Won notes from people, instead of having them deposit them, to make change.
 
@@ -33,9 +23,7 @@ We took a cable car ride in Geomjgang park to get up the south gate Geumjeong fo
 
 As we descended the cable car we could see many areas of Busan. It is a port city that buttresses up against mountains and hills. The city has developed around many of the smaller hills and you can see the green tops of the small hills poking through the developed the city looking like little islands.
 
-<div style="clear: both;text-align: center">
-  <a href="http://2.bp.blogspot.com/_bw64bfbbDEk/SNiWswTY7kI/AAAAAAAAA0U/w_YGn6Hxgqk/s1600-h/IMG_1253.JPG" style="margin-left: 1em;margin-right: 1em"><img src="http://2.bp.blogspot.com/_bw64bfbbDEk/SNiWswTY7kI/AAAAAAAAA0U/uoK5f-trFDo/s320-R/IMG_1253.JPG" border="0" /></a>
-</div>
+![IMG_1253.JPG](images/IMG_1253.JPG)
 
 After the trip up the mountain we went to the Korean baths. Located in the Nongshin Hotel these bathes are apparently the largest in Korea. The bath part is separated by gender and you are naked in the baths. There is a large rest area that is mixed – you get a little uniform of sorts to wear. In the common area there are saunas that are coed and an ice room that is kept at -2 degrees C. I was the only one in there and I couldn&#8217;t help but to think of Sam McGee from Tennessee and the Marge of Lake Lebarge as I was in there. It was the most comfortable I had been since I got to Korea – nice and cool!
 

@@ -3,17 +3,10 @@ title: Sept 10, 2008 – Seoul to Sokcho
 author: ebjadmin
 type: page
 date: 2008-09-10T08:28:00+00:00
-blogger_blog:
-  - darbruce.blogspot.com
-blogger_author:
-  - bruce jackson registered massage therapist
-blogger_permalink:
-  - /2008/09/daily-sept-10-2008.html
-blogger_internal:
-  - /feeds/4129116865024916207/posts/default/315216472764851350
+
 
 ---
-<span style="font-weight: bold">Seoul to Sokcho</span>
+## Seoul to Sokcho
 
 Internetless today. It is a travel day today. We moved from Seoul to Sokcho on the Northeast coast of Korea. Leaving Seoul by bus, we could see the develpment occuring in the south of Seoul. Entire blocks of apartments being built. Not just one 20 or 30 story building being erected but sets of eight or ten 20 or 30 story buildings. As we moved more out of the city there were more fields of rice and smaller towns. 
 

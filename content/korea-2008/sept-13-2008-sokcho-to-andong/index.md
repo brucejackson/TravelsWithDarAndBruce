@@ -13,7 +13,7 @@ blogger_internal:
   - /feeds/4129116865024916207/posts/default/1498699465486131642
 
 ---
-<span style="font-weight: bold">Sokcho to Andong</span>
+## Sokcho to Andong
 
 Another travel day. Moving from Sokcho to Andong. The directions we got from the tourist information office was to take a bus west back to Seoul then another bus to Andong. This would also involve changing to a different bus station in Seoul. Luckily for internet we discovered we could travel south from Sokcho to Gangeung and then take a train to Andong. This would save us probably 5 hours of travel. Upon arriving at Gangeung we found a bus was departing an hour earlier than the train and would get us in 2 hours earlier than taking the train!! It was all cheaper too!
 
