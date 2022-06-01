@@ -3,7 +3,7 @@ title: Sept 5, 2008 – Seoul
 author: ebjadmin
 type: page
 date: 2008-09-05T12:58:00+00:00
-draft: false
+
 
 ---
 <span style="font-weight: bold">Seoul</span>

@@ -1,7 +1,7 @@
 baseURL = 'https://travelswithDarAndBruce.the-jacksons.ca/'
 languageCode = 'en-us'
 title = 'Travels with Dar and Bruce'
-theme = 'ananke'
+theme = ["https://github.com/theNewDynamic/gohugo-theme-ananke"]
 
 [param]
 featured_image = 'images/featured.jpg'

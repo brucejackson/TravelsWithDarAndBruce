@@ -3,14 +3,7 @@ title: Sept 8 2008 – Seoul
 author: ebjadmin
 type: page
 date: 2008-09-08T12:20:00+00:00
-blogger_blog:
-  - darbruce.blogspot.com
-blogger_author:
-  - bruce jackson registered massage therapist
-blogger_permalink:
-  - /2008/09/daily-sept-8-2008-seoul.html
-blogger_internal:
-  - /feeds/4129116865024916207/posts/default/4228556455724985687
+
 
 ---
 
