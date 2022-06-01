@@ -1,0 +1,19 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'The Jacksons.ca'
+theme = 'ananke'
+
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'Yukon 2010'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/yukon-2010/'
+  weight = -110
+[[menu.main]]
+  name = 'Korea 2008'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/korea-2008/'
+  weight = -100
