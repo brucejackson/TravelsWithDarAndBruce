@@ -1,7 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://travelswithDarAndBruce.the-jacksons.ca/'
 languageCode = 'en-us'
-title = 'The Jacksons.ca'
+title = 'Travels with Dar and Bruce'
 theme = 'ananke'
+
+[param]
+featured_image = 'images/featured.jpg'
 
 
 [menu]
