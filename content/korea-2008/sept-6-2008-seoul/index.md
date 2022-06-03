@@ -4,7 +4,6 @@ author: ebjadmin
 type: page
 date: 2008-09-07T02:07:00+00:00
 featured_image: images/IMG_0208.JPG
-
 ---
 ## Seoul
 
@@ -19,7 +18,7 @@ We saw a building with an interesting sign: Maple Bear which had the name of the
 Palace of shining happiness (Gyeongbokgung)– after passing the US embassy which had an unbelievable amount of police protection. Here we got to try on traditional Korean outfits. Bruce was dressed as a high level general. This is very large palace, another changing of the guards show. The throne hall Geunjeongjeon was rebuilt in 1867. 
 
 ![image](images/IMG_0324.JPG)
-After Gyeongbokgung we walked through the Insadong district which is a shopping area of art and antiques. We saw a group of street dancers performers in traditional costumes who were performing down the street. Following that we saw most of a traditional Korean wedding. We were late so just saw the end of the wedding ceremony, then traditional dancers and then drummers with ribbons that were attached to a wire (??) on their hats that they made flow and dance around with movements of their heads, and then the wedding parade – the husband was on a horse and the wife was carried in a seat held up by 4 men.
+After Gyeongbokgung we walked through the Insadong district a shopping area of art and antiques. We saw a group of street dancers performers in traditional costumes who were performing down the street. Following that we saw most of a traditional Korean wedding. We were late so just saw the end of the wedding ceremony, then traditional dancers and then drummers with ribbons that were attached to a wire (??) on their hats that they made flow and dance around with movements of their heads, and then the wedding parade – the husband was on a horse and the wife was carried in a seat held up by 4 men.
 
 We wandered down to the Lotte hotel to book our trip to the Demilitarized Zone. Then took a train to Lotte World (Jamsil Station). Lotte World is a &#8216;disney world&#8217; type area. Seoul's version of West Edmonton mall. The mall has an ice rink, shooting range, swimming pool. On the third floor which we couldn&#8217;t go to without paying an admission, we could see a &#8216;mountie&#8217; costume.
 
