@@ -2,6 +2,8 @@ backend:
   name: github
   repo: brucejackson/TravelsWithDarAndBruce
   branch: master
+  base_url: https://travels.the-jacksons.ca/
+  auth_endpoint: /api/auth
  # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
